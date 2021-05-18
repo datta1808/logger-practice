@@ -1,0 +1,5 @@
+2021-05-18 11:17:32,021 DEBUG com.bridgelabz.logger.App main debug message 
+2021-05-18 11:17:32,025 INFO com.bridgelabz.logger.App main info message 
+2021-05-18 11:17:32,025 WARN com.bridgelabz.logger.App main warn message 
+2021-05-18 11:17:32,025 ERROR com.bridgelabz.logger.App main error message 
+2021-05-18 11:17:32,025 FATAL com.bridgelabz.logger.App main fatal message 
